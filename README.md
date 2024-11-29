@@ -1,6 +1,6 @@
 # 👋 Heyy! What’s up?
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzyFreak&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzyFreak&layout=compact&theme=dracula&langs_count=8&hide=html)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzyFreak&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzyFreak&layout=compact&theme=radical&langs_count=8&hide=html)
 ## 🧠 Growin’
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,7 +10,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FCC624?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!---
 - 👀 I’m interested in ...
