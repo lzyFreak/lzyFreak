@@ -1,5 +1,5 @@
-# 👋 Heyy! What's up?
-## 🚀 Learning
+# 👋 Heyy! What’s up?
+## 🧠 Growin’
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -9,6 +9,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
