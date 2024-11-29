@@ -1,6 +1,6 @@
 # 👋 Heyy! What’s up?
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzyFreak&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzyFreak&layout=compact&theme=radical&langs_count=8&hide=html)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzyFreak&show_icons=true&theme=onedark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzyFreak&layout=compact&theme=onedark&langs_count=8&hide=html)
 ## 🧠 Growin’
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
