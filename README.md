@@ -1,4 +1,4 @@
-# 👋 Heyy! What’s up?
+# 👋 Heyy!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzyFreak&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzyFreak&layout=compact&theme=dark&langs_count=8&hide=html)
 ## 🧠 Growin’
