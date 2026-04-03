@@ -1,9 +1,7 @@
 # 👋 Heyy!
 
->  **AI NLP Agent / RAG Developer**  
-> Focused on **LLMs · Retrieval-Augmented Generation · NLP**  
+>  **AI Agent Developer**  
 > Exploring **AI × Finance** applications  
-
 
 ## Tech Stack
 
@@ -24,14 +22,12 @@
 
 ## What I'm Working On
 - **LLM-based NLP Agents** (tool use, memory, planning)
-- **RAG systems** for structured & unstructured data
 - **AI × Finance**: financial text analysis, forecasting, decision support
 - Optimizing pipelines for **accuracy, latency, and reliability**
 
 
 ## Interests
 - Agentic AI & Autonomous Systems  
-- Knowledge Retrieval & Reasoning  
 - Applied AI in real-world finance scenarios
 
 
